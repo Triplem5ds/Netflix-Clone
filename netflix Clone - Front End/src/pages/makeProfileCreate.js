@@ -14,8 +14,8 @@ class UserCreate extends Component{
             <div className="App">
                 <header className="App-header">
                     c{/*<img src={logo} className="App-logo" alt="logo" />*/}
-                    <h1 className="App-title">Add Profile</h1>
-                    <h6><font color="#808080">Add a profile for a new person</font></h6>
+                    <h1 id = "title" className="App-title">Add Profile</h1>
+                    <h6 id = "description"><font color="#808080">Add a profile for a new person</font></h6>
                 </header>
                 <div className= "profileInfo">
                     <div className= "profilePicture">
