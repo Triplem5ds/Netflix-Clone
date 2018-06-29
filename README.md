@@ -7,9 +7,9 @@ Software Engineering 2018 Course Project - Faculty of Omar Ali and Information S
 2. History
 3. Statistics
 4. Social System
-  - groups
-  - news feed (posts)
-  - notifiactions
+     - groups
+     - news feed (posts)
+     - notifiactions
 5. To watch List
 ## Media
 ### List of Features
